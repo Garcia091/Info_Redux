@@ -2,7 +2,7 @@
             <div className="card-body">
                 <h2 className="card-title text-center">Agenda</h2>
                 <div className="lista-citas">
-                    <table class="table">
+                    <table className="table">
                         <thead>
                             <tr>
                                 <th scope="col">Nombre</th>
